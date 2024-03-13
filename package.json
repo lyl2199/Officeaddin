@@ -3,13 +3,13 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS.git"
+    "url": "https://github.com/lyl2199/Officeaddin.git"
   },
   "license": "MIT",
   "config": {
     "app_to_debug": "excel",
     "app_type_to_debug": "desktop",
-    "dev_server_port": 3000
+    "dev_server_port": 443
   },
   "scripts": {
     "build": "webpack --mode production",
